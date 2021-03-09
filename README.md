@@ -2,7 +2,7 @@
 
 ## DUE: by Thursday, March 11 
 
-https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+https://github.com/Thompsonn2/activity4-Thompsonn2/actions/workflows/<WORKFLOW_FILE>/badge.svg
 
 ## Introduction
 
